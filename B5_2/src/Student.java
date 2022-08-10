@@ -35,7 +35,7 @@ public class Student {
     public static void main(String[] args) {
         int so, n=0, m=0, c=0;
         int a;
-        Student obj[] = new Student[100];
+        Student obj[] = new Student[1000];
         while (1>0)
         {
             System.out.print("NHẬP CHỨC NĂNG (EXIT WITH 6): ");
